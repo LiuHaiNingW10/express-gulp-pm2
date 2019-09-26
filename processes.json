@@ -1,0 +1,13 @@
+{
+    "name": "myapp",
+    "script": "app.js",
+    "env": {
+        "NODE_ENV": "production"
+    },
+    "env_dev": {
+        "NODE_ENV": "development"
+    },
+    "env_uat": {
+        "NODE_ENV": "uat"
+    }
+}
